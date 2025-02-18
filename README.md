@@ -18,7 +18,8 @@ Este es un proyecto de ecommerce desarrollado con React y Vite, utilizando Boots
 
 - Clonar el repositorio:
 
-git clone https://github.com/marialde93/tp-integrador.git
+git clone https://github.com/marialde93/tp-integrador
+
 cd tp-integrador
 
 - Instalar dependencias:
