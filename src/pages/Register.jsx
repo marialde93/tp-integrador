@@ -137,7 +137,7 @@ const Register = () => {
 
           <button
             type="button"
-            className="btn btn-danger w-100  mt-3"
+            className="btn btn-danger w-100  mt-3 mb-3"
             onClick={handleGoogleLogin}
           >
             Iniciar sesión con Google
