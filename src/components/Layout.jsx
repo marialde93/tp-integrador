@@ -72,7 +72,7 @@ const Layout = ({ children }) => {
         </div>
       </nav>
 
-      <main style={{ height: "150vh" }}>{children}</main>
+      <main style={{ flex: 1, minHeight: "100vh" }}>{children}</main>
 
       <footer className="bg-dark text-white py-4">
         <div className="container">
